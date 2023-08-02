@@ -14,7 +14,7 @@ Getting funded on a crowdfunding website requires meeting or exceeding the proje
 
 ## Instructions
 
-[FullTable.PNG](https://github.com/paris1c/Excel/blob/main/FullTable.png)
+FullTable.png
 
 Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze the data of 1,000 example projects in an attempt to uncover market trends. 
 
