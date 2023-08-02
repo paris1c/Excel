@@ -38,7 +38,7 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  ![Subcategory Stats](SubcategoryStats.PNG)
+  ![Subcategory Stats](SubcategoryStats.png)
 
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
