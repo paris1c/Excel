@@ -38,7 +38,7 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
+  ![Subcategory Stats](SubcategoryStats.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
@@ -50,7 +50,7 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 
   * Create a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
 
-  ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
+  ![Outcomes Based on Launch Date](LaunchDateOutcomes.PNG)
 
   * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
 
@@ -90,7 +90,7 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
+  ![Goal Outcomes](GoalOutcomes.PNG)
 
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
@@ -106,7 +106,7 @@ For those of you looking for an additional challenge, evaluate the number of bac
 
 * Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
 
-  ![Images/backers01.png](Images/backers01.png)
+  ![backers01.png](backers01.png)
 
 * Use Excel to evaluate the following for successful campaigns, and then do the same for unsuccessful campaigns:
 
