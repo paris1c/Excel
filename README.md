@@ -31,7 +31,7 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 
   * Create two new columns, one called `Parent Category` and another called `Sub-Category`, that use formulas to split the `Category and Sub-Category` column into the two new, separate columns.
 
-  ![Category Stats](Images/CategoryStats.PNG)
+  ![Category Stats](/CategoryStats.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
